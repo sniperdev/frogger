@@ -145,8 +145,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 53
->>>>>>> lvldesign
+  controlID: 133
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -179,8 +178,7 @@ MonoBehaviour:
   m_MinSize: {x: 433, y: 492}
   m_MaxSize: {x: 14003, y: 14042}
   vertical: 1
-  controlID: 54
->>>>>>> lvldesign
+  controlID: 134
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -213,8 +211,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 55
->>>>>>> lvldesign
+  controlID: 135
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -309,11 +306,7 @@ MonoBehaviour:
   m_MinSize: {x: 433, y: 271}
   m_MaxSize: {x: 14003, y: 10021}
   vertical: 0
-<<<<<<< HEAD
-  controlID: 37
-=======
-  controlID: 102
->>>>>>> lvldesign
+  controlID: 95
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -563,12 +556,11 @@ MonoBehaviour:
 =======
     m_Target: {x: 0.4919723, y: -0.33926556, z: 0.21617551, w: 0.7721131}
     speed: 2
-    m_Value: {x: 0.49279732, y: -0.34009275, z: 0.21742055, w: 0.7708541}
+    m_Value: {x: -0.49197233, y: 0.33926556, z: -0.21617553, w: -0.77211314}
   m_Size:
     m_Target: 21.110441
     speed: 2
-    m_Value: 20.20138
->>>>>>> lvldesign
+    m_Value: 21.110441
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -778,13 +770,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-<<<<<<< HEAD
-      m_SelectedIDs: 42330000
-      m_LastClickedID: 13122
-      m_ExpandedIDs: a8e3ffff70fbffff
-=======
-      m_SelectedIDs: 48330000
-      m_LastClickedID: 13128
+      m_SelectedIDs: 
+      m_LastClickedID: 0
       m_ExpandedIDs: 70fbffff
 >>>>>>> lvldesign
       m_RenameOverlay:
@@ -874,15 +861,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-<<<<<<< HEAD
-    m_SelectedIDs: 9a330000
-    m_LastClickedID: 13210
-    m_ExpandedIDs: 000000009633000000ca9a3b
-=======
-    m_SelectedIDs: 0c350000
-    m_LastClickedID: 13580
-    m_ExpandedIDs: 000000009433000000ca9a3b
->>>>>>> lvldesign
+    m_SelectedIDs: 20340000
+    m_LastClickedID: 13344
+    m_ExpandedIDs: 000000001a34000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -910,11 +891,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-<<<<<<< HEAD
-    m_ExpandedIDs: 0000000096330000
-=======
-    m_ExpandedIDs: 0000000094330000
->>>>>>> lvldesign
+    m_ExpandedIDs: 000000001a340000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -941,7 +918,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
