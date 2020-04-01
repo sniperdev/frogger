@@ -14,10 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
+<<<<<<< HEAD
     x: -1280
     y: 97
     width: 1280
     height: 941
+=======
+    x: 0
+    y: 42
+    width: 1366
+    height: 686
+>>>>>>> lvldesign
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
@@ -44,9 +51,15 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1280
     height: 941
   m_MinSize: {x: 875, y: 542}
+=======
+    width: 1366
+    height: 686
+  m_MinSize: {x: 875, y: 300}
+>>>>>>> lvldesign
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -65,7 +78,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1280
+=======
+    width: 1366
+>>>>>>> lvldesign
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -86,8 +103,13 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 921
     width: 1280
+=======
+    y: 666
+    width: 1366
+>>>>>>> lvldesign
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -110,12 +132,21 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
+<<<<<<< HEAD
     width: 1280
     height: 891
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
   controlID: 77
+=======
+    width: 1366
+    height: 636
+  m_MinSize: {x: 709, y: 492}
+  m_MaxSize: {x: 18004, y: 14042}
+  vertical: 0
+  controlID: 53
+>>>>>>> lvldesign
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -135,12 +166,21 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1004
     height: 891
   m_MinSize: {x: 433, y: 492}
   m_MaxSize: {x: 14003, y: 14042}
   vertical: 1
   controlID: 122
+=======
+    width: 1071
+    height: 636
+  m_MinSize: {x: 433, y: 492}
+  m_MaxSize: {x: 14003, y: 14042}
+  vertical: 1
+  controlID: 54
+>>>>>>> lvldesign
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -160,12 +200,21 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1004
     height: 620
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
   controlID: 123
+=======
+    width: 1071
+    height: 365
+  m_MinSize: {x: 403, y: 221}
+  m_MaxSize: {x: 8003, y: 4021}
+  vertical: 0
+  controlID: 55
+>>>>>>> lvldesign
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -183,8 +232,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 802
     height: 620
+=======
+    width: 607
+    height: 365
+>>>>>>> lvldesign
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 15}
@@ -208,10 +262,17 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 802
     y: 0
     width: 202
     height: 620
+=======
+    x: 607
+    y: 0
+    width: 464
+    height: 365
+>>>>>>> lvldesign
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 17}
@@ -237,13 +298,22 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 620
     width: 1004
+=======
+    y: 365
+    width: 1071
+>>>>>>> lvldesign
     height: 271
   m_MinSize: {x: 433, y: 271}
   m_MaxSize: {x: 14003, y: 10021}
   vertical: 0
+<<<<<<< HEAD
   controlID: 37
+=======
+  controlID: 102
+>>>>>>> lvldesign
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -261,7 +331,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 334
+=======
+    width: 397
+>>>>>>> lvldesign
     height: 271
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
@@ -285,9 +359,15 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 334
     y: 0
     width: 670
+=======
+    x: 397
+    y: 0
+    width: 674
+>>>>>>> lvldesign
     height: 271
   m_MinSize: {x: 232, y: 271}
   m_MaxSize: {x: 10002, y: 10021}
@@ -312,10 +392,17 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1004
     y: 0
     width: 276
     height: 891
+=======
+    x: 1071
+    y: 0
+    width: 295
+    height: 636
+>>>>>>> lvldesign
   m_MinSize: {x: 276, y: 71}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
@@ -344,10 +431,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: -276
     y: 127
     width: 275
     height: 870
+=======
+    x: 1071
+    y: 72
+    width: 294
+    height: 615
+>>>>>>> lvldesign
   m_ViewDataDictionary: {fileID: 0}
   m_OpenAddComponentMenu: 0
   m_ObjectsLockedBeforeSerialization: []
@@ -382,10 +476,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: -1280
     y: 127
     width: 801
     height: 599
+=======
+    x: 0
+    y: 72
+    width: 606
+    height: 344
+>>>>>>> lvldesign
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
   m_WindowGUID: 27af552ae85813e4489afe9d03dc5803
@@ -397,9 +498,15 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: -3.818846, y: 35.804184, z: 11.115944}
     speed: 2
     m_Value: {x: -3.818846, y: 35.804184, z: 11.115944}
+=======
+    m_Target: {x: 41.0478, y: 107.48629, z: 26.230911}
+    speed: 2
+    m_Value: {x: 41.0478, y: 107.48629, z: 26.230911}
+>>>>>>> lvldesign
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -445,6 +552,7 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
+<<<<<<< HEAD
     m_Target: {x: -0.2899237, y: -0.7099569, z: 0.44492048, w: -0.46263245}
     speed: 2
     m_Value: {x: -0.2892448, y: -0.7106225, z: 0.44533762, w: -0.4615491}
@@ -452,6 +560,15 @@ MonoBehaviour:
     m_Target: 3.6966937
     speed: 2
     m_Value: 16.975428
+=======
+    m_Target: {x: 0.4919723, y: -0.33926556, z: 0.21617551, w: 0.7721131}
+    speed: 2
+    m_Value: {x: 0.49279732, y: -0.34009275, z: 0.21742055, w: 0.7708541}
+  m_Size:
+    m_Target: 21.110441
+    speed: 2
+    m_Value: 20.20138
+>>>>>>> lvldesign
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -523,10 +640,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: -478
     y: 127
     width: 200
     height: 599
+=======
+    x: 607
+    y: 72
+    width: 462
+    height: 344
+>>>>>>> lvldesign
   m_ViewDataDictionary: {fileID: 0}
   m_SerializedViewsNames: []
   m_SerializedViewsValues: []
@@ -534,7 +658,11 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
+<<<<<<< HEAD
   m_TargetSize: {x: 200, y: 578}
+=======
+  m_TargetSize: {x: 462, y: 323}
+>>>>>>> lvldesign
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -548,10 +676,17 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
+<<<<<<< HEAD
     m_HBaseRangeMin: -100
     m_HBaseRangeMax: 100
     m_VBaseRangeMin: -289
     m_VBaseRangeMax: 289
+=======
+    m_HBaseRangeMin: -231
+    m_HBaseRangeMax: 231
+    m_VBaseRangeMin: -161.5
+    m_VBaseRangeMax: 161.5
+>>>>>>> lvldesign
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -569,16 +704,24 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
+<<<<<<< HEAD
       width: 200
       height: 578
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 100, y: 289}
+=======
+      width: 462
+      height: 323
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 231, y: 161.5}
+>>>>>>> lvldesign
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
       x: -100
       y: -289
       width: 200
@@ -586,6 +729,15 @@ MonoBehaviour:
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 200, y: 599}
+=======
+      x: -231
+      y: -161.5
+      width: 462
+      height: 323
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_LastWindowPixelSize: {x: 462, y: 344}
+>>>>>>> lvldesign
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -612,17 +764,29 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: -1280
     y: 747
     width: 333
+=======
+    x: 0
+    y: 437
+    width: 396
+>>>>>>> lvldesign
     height: 250
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
       m_SelectedIDs: 42330000
       m_LastClickedID: 13122
       m_ExpandedIDs: a8e3ffff70fbffff
+=======
+      m_SelectedIDs: 48330000
+      m_LastClickedID: 13128
+      m_ExpandedIDs: 70fbffff
+>>>>>>> lvldesign
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: duck
@@ -667,9 +831,15 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: -946
     y: 747
     width: 668
+=======
+    x: 397
+    y: 437
+    width: 672
+>>>>>>> lvldesign
     height: 250
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
@@ -685,20 +855,34 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< HEAD
     - Assets/materials
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
   - Assets/materials
+=======
+    - Assets/Cubes
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/Cubes
+>>>>>>> lvldesign
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\igiig\Documents\github-repos\frogger\Frogger
+  m_LastProjectPath: C:\Users\HP 6475b\Documents\GitHub repos\frogger\Frogger
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 9a330000
     m_LastClickedID: 13210
     m_ExpandedIDs: 000000009633000000ca9a3b
+=======
+    m_SelectedIDs: 0c350000
+    m_LastClickedID: 13580
+    m_ExpandedIDs: 000000009433000000ca9a3b
+>>>>>>> lvldesign
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -726,7 +910,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 0000000096330000
+=======
+    m_ExpandedIDs: 0000000094330000
+>>>>>>> lvldesign
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
